@@ -58,17 +58,35 @@
 ![](https://img.shields.io/badge/-Vercel-05122A?style=flat-square&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/-Material_UI-05122A?style=flat-square&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=white)
+<!-- 
+<table>
+  <tr>
+    <td rowspan="3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBetita&show_icons=true&theme=tokyonight" style="height: 100%;"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AlexBetita&show_icons=true&theme=tokyonight" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexBetita&theme=tokyonight" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexBetita&theme=monokai" width="100%"/></td>
+  </tr>
+</table> -->
 
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBetita&show_icons=true&theme=tokyonight" width="33%"/>
-  <div style="display: flex; flex-direction: column; width: 66%%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexBetita&show_icons=true&theme=tokyonight" width="33%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexBetita&theme=tokyonight" width="33%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexBetita&theme=monokai" width="33%"/>
-  </div>
 
-</div>
+<table>
+  <tr>
+    <td rowspan="3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBetita&show_icons=true&theme=tokyonight" style="height: 100%;"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AlexBetita&show_icons=true&theme=tokyonight" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexBetita&theme=tokyonight" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexBetita&theme=monokai" width="100%"/></td>
+  </tr>
+</table>
+
 
 
 
