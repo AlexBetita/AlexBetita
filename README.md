@@ -5,7 +5,7 @@
 <h3 align="center">A dedicated Full Stack Engineer from Orange County</h3>
 
 - 🔭 I’m currently working on mobile development.
-- 🌱 I’m currently learning react native, typescript, swiftui and MVC design pattern.
+- 🌱 I’m currently learning react native, realm, typescript, swiftui and MVC design pattern.
 - 💬 Ask me about code/pc games.
 - 📫 How to best reach me: <a href="mailto:alexbheb25@gmail.com">Email</a> <a href="https://www.linkedin.com/in/alex-betita/">LinkedIn</a>
 - 😄 Pronouns: he/him
