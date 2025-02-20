@@ -39,6 +39,7 @@
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Web%20Services-RESTful-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)
 ![](https://img.shields.io/badge/Machine%20Learning-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
 
 ![MochaJS](https://img.shields.io/badge/-MochaJS-8D6748?style=flat-square&logo=mocha&logoColor=white)
 ![ChaiJS](https://img.shields.io/badge/-ChaiJS-A30701?style=flat-square&logo=chai&logoColor=white)
