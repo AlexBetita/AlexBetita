@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Alex Betita </h1>
-<h3 align="center">A dedicated Full Stack Engineer from Orange County</h3>
+<h3 align="center">A dedicated Full Stack Engineer from LA</h3>
 
 - 🔭 I’m currently working on LLM's, OPENAI.
 - 💬 Ask me about code/pc games.
